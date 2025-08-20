@@ -17,3 +17,5 @@ Acquired expertise in IAM principles, cybersecurity best practices, and strategi
 > - IAM Implementation Plan: I prepared a professional PowerPoint presentation showing a step-by-step plan for putting the IAM system into action. It covered connecting with existing systems, adding and removing users, keeping track of security, and running regular audits.
 > - Documentation & Reporting: I created detailed documents and slides that explained IAM ideas in a simple way so both technical and non-technical people could understand.
 > - Skills Gained: I improved my knowledge of IAM tools, login/authentication methods, cybersecurity best practices, and how to plan security strategies for large organizations.
+
+---
